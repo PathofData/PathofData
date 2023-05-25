@@ -5,7 +5,7 @@
 
 <!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathofdata" alt="pathofdata" /></a> </p>--->
 
-- 🔭 I’m currently working on **Building machine-learning python packages**
+- 🔭 I’m currently working on **Building white-box machine-learning applications**
 
 - 🌱 I’m currently learning **SnowPark**
 
