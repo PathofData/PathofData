@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SnowPark**
 
-- 💬 Ask me about **How to please sales guys**
+/* - 💬 Ask me about **How to please sales guys** */
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
